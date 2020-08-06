@@ -1,0 +1,11 @@
+body {
+    text-align: center;
+}
+
+div.item.done {
+    text-decoration: line-through;
+}
+
+button {
+    margin: .5rem;
+}
